@@ -18,11 +18,16 @@ fun main(){
 
     print("Product ID:"+productId+"\nProduct Name:\t"+productName+"\nStock:"+stock+"\nPrice:"+productPrice+"\nDealer:"+productDealer)
 
-
-
-
-
-
-
-
 }
+
+/*OUTPUT:
+Welcome	Emre
+Your age is	23
+---------------------------------------------
+Product ID:1907
+Product Name:	Rolex watch
+Stock:1000
+Price:149.99
+Dealer:Rolex
+Process finished with exit code 0
+*/
