@@ -37,12 +37,15 @@ fun main(){
         print("there is an error at convertion ")
 
     }
-
-
-
-
-
-
-
-
 }
+/*OUTPUT:
+42
+92
+42.0
+
+42
+42.45
+92.99
+there is an error at convertion 
+Process finished with exit code 0
+*/
